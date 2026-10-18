@@ -2,7 +2,7 @@
   <footer class="footer">
     <div class="container footer-inner">
       <div class="footer-block">
-        <p class="eyebrow">Proyecto 1 — Catálogos temáticos</p>
+        <p class="eyebrow">Proyecto 2 — Catálogos temáticos</p>
         <p class="footer-course">Sistemas Distribuidos · Universidad Nacional de Costa Rica (UNA)</p>
       </div>
       <div class="footer-block footer-author">

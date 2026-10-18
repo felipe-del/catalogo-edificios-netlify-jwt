@@ -5,8 +5,8 @@
 **Tema asignado:** 6. Catálogo de edificios más altos
 **Curso:** Sistemas Distribuidos — Universidad Nacional de Costa Rica (UNA)
 
-**Sistema publicado en Netlify:** `https://TU-SITIO.netlify.app`  ← reemplazar al desplegar
-**API:** `https://TU-SITIO.netlify.app/api/edificios`
+**Sistema publicado en Netlify:** `https://catalogo-edificios.netlify.app/`
+**API:** `https://catalogo-edificios.netlify.app/`
 
 ---
 
