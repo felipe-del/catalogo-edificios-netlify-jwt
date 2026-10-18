@@ -1,0 +1,17 @@
+{
+  "name": "edificios-proyecto2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Proyecto 2 - Catálogo de edificios más altos - Netlify Functions + MongoDB Atlas + JWT",
+  "scripts": {
+    "seed": "node --env-file=.env scripts/seed.mjs",
+    "dev": "netlify dev",
+    "deploy": "netlify deploy --prod --build"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.10.0"
+  }
+}
